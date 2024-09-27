@@ -35,3 +35,8 @@ Finalização do Pedido: Quando o pedido for finalizado, o programa exibirá o v
 ### Regras de Validação
 O programa valida as entradas do usuário, como sabor e tamanho da pizza. Se o usuário digitar um valor inválido, ele será solicitado a tentar novamente.
 O valor acumulado do pedido é mantido mesmo quando um novo item é adicionado.
+
+## Exemplo de uso
+
+![image](https://github.com/user-attachments/assets/46c39758-cc1a-405e-8f4c-cf3d8a30823a)
+
